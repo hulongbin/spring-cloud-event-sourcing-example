@@ -7,4 +7,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/hulongbin/spring-cloud-event-sourcing-example.git
+          uri: https://github.com/hulongbin/spring-cloud-event-sourcing-config.git
